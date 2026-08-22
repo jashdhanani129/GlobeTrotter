@@ -11,7 +11,7 @@ INSERT INTO cities (name,country,region,description,cost_index,popularity,image_
 ('Rome','Italy','Europe','Ancient history, art, food and walkable neighborhoods.',1.2,95,'https://images.unsplash.com/photo-1529260830199-42c24126f198?auto=format&fit=crop&w=900&q=80'),
 ('Sydney','Australia','Oceania','Harbour views, beaches, nature and city culture.',1.5,87,'https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d3?auto=format&fit=crop&w=900&q=80'),
 ('Cairo','Egypt','Africa','Pyramids, ancient history, markets and Nile experiences.',0.5,82,'https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=900&q=80');
-
+ 
 INSERT INTO activities (city_id,name,category,description,duration_hours,estimated_cost) VALUES
 (1,'Eiffel Tower','Sightseeing','Visit the iconic Eiffel Tower and surrounding Champ de Mars.',3,35),
 (1,'Louvre Museum','Culture','Explore world-famous art collections.',4,25),
